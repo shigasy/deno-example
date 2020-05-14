@@ -3,7 +3,7 @@
 ```
 deno fmt
 deno test
-deno bundle
+deno bundle main.ts bundle.js
 ```
 
 ```ts
